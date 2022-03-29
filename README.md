@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+- 😄 My Name is LmaoPew
+- 🏚️ My Home Location is in Germany
+- 🖥️ Programming languages: HTML, CSS, PHP, Java, C#, Python
+- 
 
 ![LmaoPewPew GitHub stats](https://github-readme-stats.vercel.app/api?username=LmaoPewPew&show_icons=true&theme=dark)
 
