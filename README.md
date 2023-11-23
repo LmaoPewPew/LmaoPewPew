@@ -1,6 +1,7 @@
 ### About Me
-- 😄 My Name is Sahit
-- 🏚️ My Home Location is in Germany
+- Hello my Name is Sahit
+- Im a young Software developer, located in Bavaria, Germany
+- Currently Studying Computure Science in Technische Hochschule Ulm
 
 <h3>Languages & Tools</h3>
 
