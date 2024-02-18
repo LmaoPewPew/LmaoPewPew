@@ -11,7 +11,8 @@
 <!-- Bottom will be replaced with top, once more langs are used!-->
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,java,kotlin,cs,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,androidstudio,java,kotlin,cs,python,mysql)](https://skillicons.dev)
+<!-- SOON SWIFT TOO!!--> 
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,unity,visualstudio,vscode,eclipse,idea,ps&perline=8)](https://skillicons.dev)
